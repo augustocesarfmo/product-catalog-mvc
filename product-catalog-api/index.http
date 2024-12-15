@@ -1,0 +1,26 @@
+### Listar todos os produtos
+GET http://localhost:8080/products
+Accept: application/json
+
+###
+
+### Adicionar um novo produto
+POST http://localhost:8080/products
+Content-Type: application/json
+
+{
+    "nam": "Laptop",
+    "price": 1200.00
+}
+
+###
+
+### Adicionar outro produto
+POST http://localhost:8080/products
+Content-Type: application/json
+
+{
+    "name": "Headphones",
+    "price": 150.00
+}
+
