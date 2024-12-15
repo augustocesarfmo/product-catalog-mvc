@@ -9,7 +9,7 @@ POST http://localhost:8080/products
 Content-Type: application/json
 
 {
-    "nam": "Laptop",
+    "name": "Laptop",
     "price": 1200.00
 }
 
