@@ -2,12 +2,12 @@
 
 Este repositório contém dois projetos que demonstram a aplicação da arquitetura MVC em um sistema de catálogo de produtos:
 
-- `/product-catalog-mvc`: Exemplo de aplicação da arquitetura MVC em um sistema baseado em terminal.
-- `/product-catalog-mvc-web`: Exemplo de aplicação da arquitetura MVC em um sistema baseado na _web_.
+- `/product-catalog-mvc`: Exemplo de aplicação da arquitetura MVC em um sistema **baseado em terminal**.
+- `/product-catalog-mvc-web`: Exemplo de aplicação da arquitetura MVC em um sistema **baseado na web**.
 
 ## 🚀 Tecnologias
 
-Este projeto foi desenvolvido para compor o portfólio, utilizando as seguintes tecnologias:
+Este projeto foi desenvolvido para portfólio com as seguintes tecnologias:
 
 - [java](https://www.java.com/pt-BR/)
 - [spring-boot](https://spring.io/projects/spring-boot)
@@ -43,7 +43,7 @@ $ javac Main.java
 $ java Main
 ```
 
-### Executando `product-catalog-mvc-web` (aplicação _web_)
+### Executando `product-catalog-mvc-web` (aplicação web)
 
 ```bash
 # Acessando o app
